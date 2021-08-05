@@ -10,5 +10,6 @@ Files contained within this repository:
 4. vancouver_venues.csv: CSV file containing the Venues Data used in the Capstone_Project_Notebook notebook
 
 Additionally, this repository contains the files used for completing the exercise of Week 3 of the course:
+
 5. Segmenting_Clustering_Toronto.ipynb: Notebook used for completing the final assignment of Week 3 (completed)
 6. Geospatial_Coordinates.csv: CSV file containing coordenates information used in the Segmenting_Clustering_Toronto notebook
