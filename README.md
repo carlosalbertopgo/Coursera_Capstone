@@ -4,7 +4,7 @@ This repository contains all the files created by Carlos Paiva for completing th
 
 Files contained within this repository:
 
-1. Capstone_Project_Notebook.ipynb: Notebook used for the main capstone project (containing all Python 3 code created and executed for the project)
+1. Capstone_Project_Notebook.ipynb: Jupyter Notebook for the main capstone project (containing all Python 3 code created and executed for the project)
 2. Capstone_Project_Report.pdf: Project Report (containing all the details of the process and analysis done for the project)
 3. Capstone_Project_Presentation.pdf: Project Presentation (summarizing all the main insights and recommendations drawn from project)
 4. Vancouver_Crime_Filtered.csv: CSV file containing the Crime Data used in the Capstone_Project_Notebook notebook
